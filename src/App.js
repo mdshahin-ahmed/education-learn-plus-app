@@ -14,6 +14,7 @@ import Contact from './Components/Contact/Contact';
 import Header from './Components/Header/Header';
 import Courses from './Components/Courses/Courses';
 import NotFound from './Components/NotFound/NotFound';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -39,7 +40,7 @@ function App() {
         <NotFound></NotFound>
       </Route>
     </Switch>
-    
+    <Footer></Footer>
   </Router>
   );
 }

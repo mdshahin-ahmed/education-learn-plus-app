@@ -1,5 +1,6 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
+import './Course.css';
 
 const Course = (props) => {
     const {img, title, description, price} = props.course;

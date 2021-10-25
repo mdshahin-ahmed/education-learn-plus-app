@@ -1,0 +1,11 @@
+.course-style{
+    margin-bottom: 110px;
+}
+.img-container{
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .card-img:hover{
+    transform: scale(1.2);
+    transition: all 1s;
+  }
