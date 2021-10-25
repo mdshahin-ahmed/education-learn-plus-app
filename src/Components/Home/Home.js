@@ -10,7 +10,7 @@ const Home = () => {
         <div>            
             <Container>
                 <h1 className='text-center'>Our Courses</h1>
-                <h6 className='text-center'>Showing 3 courses of 14 for you. If you want to show all courses please visit Services page</h6>
+                <h6 className='text-center'>Showing 3 courses of 14 for you. If you want to show all courses please visit Courses page</h6>
                 <Row xs={1} md={3} className="g-4">              
                              
                     {
